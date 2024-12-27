@@ -1,0 +1,140 @@
+{
+  "staff": [
+    {
+      "id": "4a5e",
+      "name": "WSFSDF",
+      "phone": "2342342342",
+      "email": "safsf@gmail.com",
+      "role": "Python Fullstack"
+    },
+    {
+      "id": "5a23",
+      "name": "Rubesh",
+      "phone": "9484743832",
+      "email": "rubeshbasv2@gmail.com",
+      "role": "Cloud Computing"
+    },
+    {
+      "id": "596a",
+      "name": "ewt",
+      "phone": "4234234333",
+      "email": "dhsa@gmail.com",
+      "role": "Python Fullstack"
+    },
+    {
+      "id": "81d1",
+      "name": "Arul",
+      "phone": "5672537653",
+      "email": "ytfytsfytff@gmail.com",
+      "role": "Java Fullstack"
+    },
+    {
+      "id": "d63e",
+      "name": "ajitj",
+      "phone": "2342352353",
+      "email": "sdgsggd@gmail.com",
+      "role": "Front End"
+    },
+    {
+      "id": "83b1",
+      "name": "adgast",
+      "phone": "3453464363",
+      "email": "fdsygse@gmail.com",
+      "role": "Front End"
+    },
+    {
+      "id": "7e0b",
+      "name": "sdsaf",
+      "phone": "1321312322",
+      "email": "asfsafd@gmail.com",
+      "role": "Front End"
+    },
+    {
+      "id": "a345",
+      "name": "qwr",
+      "phone": "2332131233",
+      "email": "qwdsr@gmail.com",
+      "role": "Cloud Computing"
+    }
+  ],
+  "students": [
+    {
+      "id": "5076",
+      "gender": "Male",
+      "age": 18,
+      "batch": "2020",
+      "course": "Information Technology",
+      "email": "ajithks@gmail.com",
+      "phone": "9345738576",
+      "name": "kumar"
+    },
+    {
+      "id": "8f64",
+      "gender": "Male",
+      "age": 21,
+      "batch": 2021,
+      "course": "Cloud Computing",
+      "email": "gjksgdkfjg@gmail.com",
+      "phone": "9575858543",
+      "name": "babsfaf"
+    },
+    {
+      "id": "4713",
+      "gender": "Female",
+      "age": 21,
+      "batch": 2019,
+      "course": "Front End",
+      "email": "ssfsaf@gmail.com",
+      "phone": "2142142424",
+      "name": "safsaf"
+    },
+    {
+      "id": "49cf",
+      "gender": "Female",
+      "age": 22,
+      "batch": 2024,
+      "course": "Data Analytics",
+      "email": "sdfdsf@gmail.com",
+      "phone": "2342355325",
+      "name": "harif"
+    },
+    {
+      "id": "cdb0",
+      "gender": "Female",
+      "age": 22,
+      "batch": 2024,
+      "course": "Cloud Computing",
+      "email": "sdffsd@gmail.com",
+      "phone": "2342352355",
+      "name": "surya"
+    },
+    {
+      "id": "be4a",
+      "gender": "Male",
+      "age": 22,
+      "batch": 2023,
+      "course": "Cloud Computing",
+      "email": "safasf@gmail.com",
+      "phone": "2141232133",
+      "name": "john"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Java Full Stack"
+    },
+    {
+      "id": "2",
+      "name": "Python Full Stack"
+    },
+    {
+      "id": "3",
+      "name": "Data Science"
+    },
+    {
+      "id": "4",
+      "name": "UI/UX"
+    }
+  ]
+}

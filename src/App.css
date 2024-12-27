@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+.details{
+    padding-top: 50px;
+    margin-bottom: 50px;
+
+    margin-left: 10px;
+}
+
+.homepage1{
+
+/* background-color: rgb(245, 245, 245);  */
+background-color: white;
+
+     height: 100vh; 
+}
+
+.logo{
+    font-size: 30px;
+    margin:0px 5px;
+}
+.tables{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-hover:hover{
+    color: blue;
+}
+
+
+
+
+
+
+
+.navbarcolourchange{
+    background: linear-gradient( to bottom right ,#2b5876,#4e4376) ;
+}
+
+.homepagebtn{
+    border: 1px solid white;
+}
+
+
+
+
+
+.homepage-count-icon{
+    font-size: 45px;
+   
+    margin-right: 10px;
+}
+
+
+
+
+/* ---------------------------------------------------- */
+
+
+
+/* About.css */
+
+
+.about-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    /* background-color: #f9f9f9; */
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title styles */
+  .about-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0056b3;
+  }
+  
+  /* Section title styles */
+  .section-title {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #007acc;
+    border-bottom: 2px solid #007acc;
+    display: inline-block;
+  }
+  
+  /* Description text */
+  .about-description,
+  .section-description {
+    margin-bottom: 20px;
+    text-align: justify;
+    opacity: 0.8;
+  }
+  
+  /* Feature list styles */
+  .feature-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .feature-item {
+    background: #e7f3ff;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-left: 4px solid #007acc;
+    border-radius: 4px;
+  }
+  
+  /* Contact information styles */
+  .contact-info {
+    margin-top: 20px;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .contact-link {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
+  .contact-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 600px) {
+    .about-title {
+      font-size: 1.5rem;
+    }
+  
+    .section-title {
+      font-size: 1.25rem;
+    }
+  
+    .about-description,
+    .section-description {
+      font-size: 0.9rem;
+    }
+  
+    .feature-item {
+      font-size: 0.9rem;
+    }
+  
+    .contact-info {
+      font-size: 0.85rem;
+    }
+  }
+  

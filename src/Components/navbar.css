@@ -1,0 +1,82 @@
+/* Navbar Customizations */
+.navbar-colourchange {
+    background-color: #343a40;
+    padding: 10px 20px;
+  }
+  
+  .nav-hover:hover {
+    color: #4CAF50 !important; /* Highlight color for hover */
+    transition: color 0.3s ease;
+    
+  }
+
+  .navbar-toggler {
+  background-color: #4CAF50 !important; /* Example: Bootstrap Primary Color */
+    border: none;
+    outline: none; /* Remove border */
+  }
+  
+  .navbar-brand .logo {
+    font-size: 1.8em;
+    color: #4CAF50; /* Brand logo color */
+  }
+  .nav-link{
+    font-size: 15px;
+    transition: transform 0.3s ease;
+  }
+
+  .homepage-icons
+  {
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .homepage-abouticon{
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  
+  .homepagebtn {
+    background-color: #28a745; /* Search button color */
+    border: none;
+    font-weight: 500;
+  }
+  
+  .homepagebtn:hover {
+    background-color: #218838;
+    color: white;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .navbar-brand {
+      font-size: 1.1em;
+    }
+  
+    .homepage-icons,
+    .homepage-abouticon {
+      font-size: 1em;
+    }
+  
+    .homepagebtn {
+      font-size: 0.9em;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .navbar-brand {
+      font-size: 1em;
+      display: flex;
+      align-items: center;
+    }
+  
+    .homepage-icons,
+    .homepage-abouticon {
+      margin-right: 3px;
+    }
+  
+    .homepagebtn {
+      padding: 6px 10px;
+      font-size: 0.8em;
+    }
+  }
+  

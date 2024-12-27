@@ -1,0 +1,95 @@
+/* @media (max-width: 768px) {
+  .table-responsive {
+    padding: 0 10px;
+  }
+
+  table th, table td {
+    font-size: 12px; 
+    padding: 8px; 
+  }
+}
+
+ */
+
+/* Container styling for buttons */
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Ensure buttons stack on small screens */
+  margin-bottom: 20px;
+}
+
+/* Grouping student/staff buttons */
+.details-buttons {
+  display: flex;
+  gap: 10px; /* Space between buttons */
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
+}
+
+/* Grouping add buttons */
+.add-buttons {
+  display: flex;
+  gap: 20px; /* Space between add buttons */
+  flex-wrap: wrap; /* Ensure wrapping on smaller screens */
+}
+
+/* Button styles */
+.details-btn, .add-btn {
+  margin-bottom: 10px;
+  text-transform: none; /* Disable uppercase transformation */
+}
+
+/* Responsive Design for Mobile View */
+@media (max-width: 768px) {
+  .details-container {
+    flex-direction: column; /* Stack groups vertically */
+    align-items: stretch; /* Stretch to full width */
+  }
+
+  .details-buttons, .add-buttons {
+    justify-content: center; /* Center align buttons */
+    margin-bottom: 10px; /* Add spacing between groups */
+  }
+
+  .details-btn, .add-btn {
+    width: 100%; /* Full-width buttons */
+    text-align: center; /* Center align text */
+  }
+}
+
+@media (max-width: 480px) {
+  .details-container {
+    padding: 10px; /* Add padding for smaller screens */
+  }
+
+  .add-buttons {
+    gap: 10px; /* Reduce gap between add buttons */
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* student detailse------------------------- */
+
+.colourchange{
+  background-color:#4CAF50 !important ;
+}
+
+.formalignment input {
+  height: 1.295em;
+  padding: 5.5px 14px;
+font-size: "0.9rem" !
+  
+ 
+}
