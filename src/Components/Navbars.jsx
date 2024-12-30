@@ -44,7 +44,7 @@ const Navbars = () => {
         />
 
         <Navbar.Collapse id="navbarScroll">
-          <Nav className="me-auto my-2 my-lg-0" navbarScroll>
+          <Nav className=" my-2 my-lg-0 ms-auto" navbarScroll>
             <Nav.Link
               as={Link}
               to="/"
@@ -92,18 +92,7 @@ const Navbars = () => {
             </Nav.Link>
           </Nav>
 
-          {/* Search Form */}
-          <Form className="d-flex">
-            <Form.Control
-              type="search"
-              placeholder="Search"
-              className="me-2"
-              aria-label="Search"
-            />
-            <Button className="text-white homepagebtn" variant="primary">
-              Search
-            </Button>
-          </Form>
+        
         </Navbar.Collapse>
       </Container>
     </Navbar>

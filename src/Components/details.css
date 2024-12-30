@@ -50,6 +50,7 @@
   .details-buttons, .add-buttons {
     justify-content: center; /* Center align buttons */
     margin-bottom: 10px; /* Add spacing between groups */
+    
   }
 
   .details-btn, .add-btn {
@@ -64,7 +65,11 @@
   }
 
   .add-buttons {
-    gap: 10px; /* Reduce gap between add buttons */
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 5px;
   }
 }
 

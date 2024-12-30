@@ -26,20 +26,13 @@
       "name": "Arul",
       "phone": "5672537653",
       "email": "ytfytsfytff@gmail.com",
-      "role": "Java Fullstack"
+      "role": "pyton Fullstack"
     },
     {
       "id": "d63e",
       "name": "ajitj",
       "phone": "2342352353",
       "email": "sdgsggd@gmail.com",
-      "role": "Front End"
-    },
-    {
-      "id": "83b1",
-      "name": "adgast",
-      "phone": "3453464363",
-      "email": "fdsygse@gmail.com",
       "role": "Front End"
     },
     {
@@ -55,6 +48,20 @@
       "phone": "2332131233",
       "email": "qwdsr@gmail.com",
       "role": "Cloud Computing"
+    },
+    {
+      "id": "15f6",
+      "name": "sdfsdf",
+      "phone": "4234234234",
+      "email": "sadgfsdgsg@gmail.com",
+      "role": "Front End"
+    },
+    {
+      "id": "25dc",
+      "name": "Sathish",
+      "phone": "5725425423",
+      "email": "adggffsf@gmail.com",
+      "role": "Front End"
     }
   ],
   "students": [
@@ -63,7 +70,7 @@
       "gender": "Male",
       "age": 18,
       "batch": "2020",
-      "course": "Information Technology",
+      "course": "Computer Science",
       "email": "ajithks@gmail.com",
       "phone": "9345738576",
       "name": "kumar"
@@ -73,7 +80,7 @@
       "gender": "Male",
       "age": 21,
       "batch": 2021,
-      "course": "Cloud Computing",
+      "course": "Mechanical Engineering",
       "email": "gjksgdkfjg@gmail.com",
       "phone": "9575858543",
       "name": "babsfaf"
