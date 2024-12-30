@@ -52,7 +52,7 @@ const Navbars = () => {
               onClick={closeNavbar} // Close navbar on link click
             >
               <FaHome className="me-1 homepage-icons" />
-              Home
+              Homes
             </Nav.Link>
             <Nav.Link
               as={Link}
